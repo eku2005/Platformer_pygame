@@ -34,24 +34,21 @@ Enjoy 😎
 
 ## 4. Demo:
 
-https://www.youtube.com/watch?v=v6rjaPzngLI
+
 
 ## 5. Contributing:
 
 Pull requests are welcome. 
 
-For major changes, please open an issue first to discuss what you would like to change with project owner (Coding With Russ).
 
 
 ## 6. Created By:
 
-Name: Coding With Russ
+
 
 Project Name: PyGame Tile Based Platformer Game Beginner Tutorial in Python 
 
-Youtube: https://www.youtube.com/playlist?list=PLjcN1EyupaQnHM1I9SmiXfbT6aG4ezUvu
 
-Github: https://github.com/russs123/Platformer
 
 
 ## 7. Licence:
